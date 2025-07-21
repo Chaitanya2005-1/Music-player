@@ -1,1 +1,8 @@
 # Music-player
+music-player/
+├── index.html
+└── audio/
+    ├── song1.mp3
+    ├── song2.mp3
+    ├── song3.mp3
+    └── song4.mp3
